@@ -1,5 +1,4 @@
-sample-id	Muestra	ID_Vaca	Timepoint	Tiempo
-#q2:types	categorical	categorical	categorical	numeric
+id	Muestra	ID_Vaca	Timepoint	Tiempo
 SRR11322142_1	WD01	1175	TP1	1
 SRR11322141_1	WD02	1176	TP1	1
 SRR11322130_1	WD03	1177	TP1	1
